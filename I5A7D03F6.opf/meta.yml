@@ -1,0 +1,26 @@
+id: I5A7D03F6
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:05:53.850197+00:00
+last_modified: 2022-12-14 18:05:53.850207+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-091-074
+  eft-text-version: 1.0.5 2021
+  title: Toh_676-The_Dharani_Essence_of_Immeasurable_Longevity_and_Wisdom-v1
+bases:
+  '5830':
+    source_metadata: null
+    order: 1
+    base_file: 5830.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
